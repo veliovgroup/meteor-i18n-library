@@ -1,4 +1,4 @@
-##Internalization driver for Meteor (i18n)
+##Internationalization and localization driver for Meteor (i18n)
 
 ----
 
